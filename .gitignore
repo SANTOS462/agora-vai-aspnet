@@ -1,0 +1,12 @@
+# Ignore arquivos do Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# Ignore arquivos de pacotes NuGet
+packages/
+
+# Arquivos de configura��o espec�ficos do Visual Studio
+.user
+.suo
